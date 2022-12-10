@@ -27,4 +27,41 @@ header .logo {
 
 main {
     padding: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    width: 400px;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Martian Mono', monospace;
+
 }
+
+div {
+    padding-bottom: 30px;
+}
+
+.nametag {
+    background: rgb(143, 184, 143);
+    border-radius: 5px;
+}
+
+.hello {
+    padding-top: 25px;
+    font-size: 30px;
+}
+
+.mynameis {
+    font-size: 18px;
+  
+}
+
+.name {
+    background: whitesmoke;
+    border: 2px solid rgb(143, 184, 143);
+    font-size: 30px;
+    font-style: bold;
+    padding: 10px;
+}
+
+
+

@@ -29,7 +29,7 @@ main {
     padding: 20px;
     padding-bottom: 20px;
     padding-top: 10px;
-    width: 400px;
+    width: 500px;
     text-align: center;
     margin: 10px;
     font-family: 'Martian Mono', monospace;
@@ -63,5 +63,8 @@ div {
     padding: 10px;
 }
 
+.inputFields {
+    text-align: left;
+}
 
 
